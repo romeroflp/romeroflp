@@ -1,8 +1,8 @@
-# 👋 Felipe Romero
+# 👋 Felipe Romero, Prazer!
 
-* 🔭 Cursando Engenharia de Software
-* 🌱 Focado em Back-End
-* 👯 Sempre aprendendo uns negocinho...
+- Começando Engenharia de Software, porém, com uma base já consolidada.
+- Focado em backend, e aprendendo por conta própria sempre que dá.
+- Se quiser me contratar, eu vou pensar se aceito (vou aceitar). 
 
 ### 🛠 Stack
 
@@ -16,7 +16,7 @@
 
 </p>
 
-### 📌 Projetos
+### 📌 Projetos/Exercicios Recentes
 
 <p align="center">
 
@@ -27,8 +27,6 @@
 <a href="https://github.com/romeroflp/BattleShip-War">
 <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=romeroflp&repo=BattleShip-War&theme=tokyonight">
 </a>
-
-
 
 </p>
 

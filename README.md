@@ -20,8 +20,8 @@
 
 <p align="center">
 
-<a href="https://github.com/romeroflp/HttpProtocolVertx">
-<img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=romeroflp&repo=HttpProtocolVert.x&theme=tokyonight">
+<a href="https://github.com/romeroflp/HttpProtocol-Vertx">
+<img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=romeroflp&repo=HttpProtocol-Vertx&theme=tokyonight">
 </a>
 
 <a href="https://github.com/romeroflp/BattleShip-War">

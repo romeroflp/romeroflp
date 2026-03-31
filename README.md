@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://github.com/romeroflp/BattleShip-War">
-<img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=romeroflp&repo=BattleShip-War&theme=tokyonight">
+<img height="120" src="[https://github-readme-stats.vercel.app/api/pin/?username=romeroflp&repo=BattleShip-War&theme=tokyonight](https://github-readme-stats-fast.vercel.app/api/pin/?username=romeroflp&repo=BattleShip-War&theme=tokyonight)">
 </a>
 
 </p>

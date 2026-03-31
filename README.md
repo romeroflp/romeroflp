@@ -33,11 +33,11 @@
 <p align="center">
 
 <a href="https://github.com/romeroflp/OrderSystem">
-<img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=romeroflp&repo=OrderSystem&theme=tokyonight">
+<img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=romeroflp&repo=BattleShip-War&theme=tokyonight">
 </a>
 
 <a href="https://github.com/romeroflp/FileManagerExercism">
-<img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=romeroflp&repo=FileManagerExercism&theme=tokyonight">
+<img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=romeroflp&repo=BattleShip-War&theme=tokyonight">
 </a>
 
 </p>

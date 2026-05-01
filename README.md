@@ -9,6 +9,7 @@
 <p align="center">
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,41 +17,20 @@
 
 </p>
 
-### 📌 Projetos/Exercicios Recentes
-
-<p align="center">
-
-<a href="https://github.com/romeroflp/HttpProtocol-Vertx">
-<img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=romeroflp&repo=HttpProtocol-Vertxr&theme=tokyonight">
-</a>
-
-<a href="https://github.com/romeroflp/BattleShip-War">
-<img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=romeroflp&repo=BattleShip-War&theme=tokyonight">
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/romeroflp/OrderSystem">
-<img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=romeroflp&repo=OrderSystem&theme=tokyonight">
-</a>
-
-<a href="https://github.com/romeroflp/FileManagerExercism">
-<img height="120" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=romeroflp&FileManagerExercism&theme=tokyonight">
-</a>
-
-</p>
-
 ### 📫 Contato
 
-<p align="leftr">
+<p align="left">
 
 <a href="mailto:felipermrcosta@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 <a href="https://wa.me/+5524992709263">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>

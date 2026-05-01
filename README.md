@@ -1,9 +1,7 @@
 # 👋 Felipe Romero, Prazer!
 
-- Começando Engenharia de Software, porém, com uma base já consolidada.
-- Focado em backend, e aprendendo por conta própria sempre que dá.
-- Se quiser me contratar, eu vou pensar se aceito (vou aceitar). 
-
+ Estudante de Engenharia do Software pela Universidade de Vassouras. Focado em criar uma base sólida no príncipios que sustentam a área da tecnologia, e os 30 minutos que sobram, vou pra academia. 
+ 
 ### 🛠 Stack
 
 <p align="center">
